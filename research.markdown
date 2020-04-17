@@ -32,7 +32,7 @@ In the past two decades there have been multiple instances of water contaminatio
 
 This project will, fundamentally, change the current water monitoring paradigm through the combination of different data sources such as HRMS and SA utilizing big-data approaches (e.g. ML and AI).
 
-<img align="left" height="340px" width="500px" src="https://github.com/ComputMassSpecLab/CMSL/blob/gh-pages/assets/ARMOUR.png">
+<img align="left" height="340px" width="500px" src="/assets/ARMOUR.png">
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
