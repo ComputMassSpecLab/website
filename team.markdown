@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 
-<img align="left" height="240px" width="180px" src="/assets/Web_pic.jpeg">
+<img align="left" height="240px" width="180px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/Web_pic.jpeg">
 
 &nbsp;&nbsp;&nbsp;&nbsp; Dr. Saer Samanipour (PI) <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor in Analytical Chemistry <br />

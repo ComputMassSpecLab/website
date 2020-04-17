@@ -9,4 +9,4 @@ layout: home
 
 We combine the power of High Resolution Mass Spectrometry and data science to answer fundamental questions.
 
-<img align="right" height="250px" width="380px" src="/assets/LCMS1.png">
+<img align="right" height="250px" width="380px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/LCMS1.png">
