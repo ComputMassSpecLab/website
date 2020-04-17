@@ -11,9 +11,9 @@ Recent advances in analytical tools such as comprehensive two-dimensional chroma
 
 This project aims at utilizing the combination HRMS and modern data processing tools to facilitate the identification of natural and anthropogenic chemicals in complex samples from environmental sciences to medicinal chemistry. This project will result in an open source/access toolbox for handling such data.  
 
-<img align="left" height="240px" width="500px" src="/assets/Platform.png">
-
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<p align="center">
+<img height="240px" width="500px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/Platform.png">
+</p>
 
 ### Relevant references:
 * **Samanipour, S.**; O’Brien, J.; Reid, M.; and Thomas, K. V., A self-adjusting algorithm for non-targted feature detection of LC-HRMS data, *Anal. Chem.*, 2019, 91 (16), 10800–10807.
@@ -32,9 +32,11 @@ In the past two decades there have been multiple instances of water contaminatio
 
 This project will, fundamentally, change the current water monitoring paradigm through the combination of different data sources such as HRMS and SA utilizing big-data approaches (e.g. ML and AI).
 
-<img align="left" height="340px" width="500px" src="/assets/ARMOUR.png" alt="">
+<p align="center">
+<img height="340px" width="500px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/ARMOUR.png">
+</p>
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
 
 
 ### Relevant references:
@@ -47,9 +49,10 @@ The recent advances in both the analytical and computational tools have drastica
 
 This project will take advantage of already available machine learning algorithms (e.g. deep learning approaches) and the publicly available repositories of fragmentation patterns and physical-chemical properties to build the needed models.
 
-<img align="left" height="340px" width="500px" src="/assets/ToxChem.png">
+<p align="center">
+<img height="340px" width="500px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/ToxChem.png">
+</p>
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 ## Community based exposomics
@@ -57,9 +60,10 @@ Today the human body is exposed to a wide range of environmental and chemical st
 
 The aim of this project is to gain a better understanding of the human exposome and its associations with health disorders (e.g. biomarkers). This is a multidisciplinary and novel field of study combining targeted and non-targeted metabolomic, computational mass spectrometry, epidemiology, and advanced statistics to studying the role of the environment in human disease.
 
-<img align="left" height="340px" width="500px" src="/assets/Expo.png">
+<p align="center">
+<img height="340px" width="500px" src="https://raw.githubusercontent.com/ComputMassSpecLab/CMSL/gh-pages/assets/Expo.png">
+</p>
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 
 ### Relevant references:
