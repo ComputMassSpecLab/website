@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-If you are interested in participating in one of these projects and/or would like to collaborate, please contact [Dr. Samanipour](s.samanipour@uva.nl).
+If you are interested in participating in one of these projects and/or would like to collaborate, please contact [Dr. Samanipour](<s.samanipour@uva.nl>).
 
 ## HRMS data processing toolbox
 
