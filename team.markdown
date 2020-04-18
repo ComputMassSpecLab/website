@@ -12,7 +12,7 @@ permalink: /team/
 &nbsp;&nbsp;&nbsp;&nbsp; **Van't Hoff Institute for Molecular Science (HIMS)** <br />
 &nbsp;&nbsp;&nbsp;&nbsp; **University of Amsterdam** <br />
 &nbsp;&nbsp;&nbsp;&nbsp; [s.samanipour@uva.nl](<s.samanipour@uva.nl>)<br />
-&nbsp;&nbsp;&nbsp;&nbsp; [CV](https://raw.githubusercontent.com/ComputMassSpecLab/website/gh-pages/assets/cv.pdf) <br />
+&nbsp;&nbsp;&nbsp;&nbsp; [CV](https://raw.githubusercontent.com/ComputMassSpecLab/website/gh-pages/assets/Samanipour_CV_04020.pdf) <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp; PhD in Analytical Chemistry from **Swiss Federal Institute of** <br />
 &nbsp;&nbsp;&nbsp;&nbsp; **Technology Lausanne (EPFL)**, 2015 <br />
