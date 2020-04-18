@@ -22,7 +22,7 @@ title: Computational Mass Spectrometry Lab (CMSL)
 email: s.samanipour@uva.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Computational Mass Spectrometry Lab (CMSL)
-  
+
   We use data science methods to tackle complex datasets generated via
   high resolution mass spectrometry experiments.
 baseurl: "/website" # the subpath of your site, e.g. /blog
