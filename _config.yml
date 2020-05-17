@@ -32,7 +32,7 @@ twitter_username: SSamanipour
 
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
