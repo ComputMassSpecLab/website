@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The CMSL will start at UvA!"
+title:  "The CMS-L will start at UvA!"
 date:   2020-04-21 18:14:23 +0200
 categories: CMSL update
 Author: Samanipour

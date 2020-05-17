@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: CMSL
+title: CMS-L
 ---
 
-## Welcome to the Computational Mass Spectrometry Lab (CMSL)
+## Welcome to the Computational Mass Spectrometry Lab (CMS-L)
 
 We combine the power of High Resolution Mass Spectrometry and data science to answer fundamental questions.
 
