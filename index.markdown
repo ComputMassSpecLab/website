@@ -6,7 +6,7 @@ layout: home
 title: CMSL
 ---
 
-## Welcome to Computational Mass Spectrometry Lab (CMSL)
+## Welcome to the Computational Mass Spectrometry Lab (CMSL)
 
 We combine the power of High Resolution Mass Spectrometry and data science to answer fundamental questions.
 
