@@ -5,6 +5,7 @@ permalink: /publication/
 ---
 ### Publications at UvA
 
+* Choi, P.; O’Brien, J. W.; Tscharke, B.; Mueller, J. F.; Thomas, K. V.; and **Samanipour, S.**; Population Socioeconomics Predicted Using Wastewater, *Environ. Sci. Technol. Lett*, 2020.
 
 ### Publications before UvA
 
@@ -25,5 +26,5 @@ permalink: /publication/
 * **Samanipour, S.**; Dimitriou-Christidis, P.; Nabi, D.; Arey, J. S., Elevated Concentrations of 4-Bromobiphenyl and 1,3,5-Tribromobenzene Found in Deep Water of Lake Geneva Based on GC×GC-μECD and GC×GC-ENCI-TOFMS, *ACS Omega*, 2017, 2 (2), pp 641-652.
 * **Samanipour, S.**; Langford, K; Reid M. J.; and Thomas, K. V., A two stage algorithm for target and suspect analysis of produced water via gas chromatography coupled with high resolution time of flight mass spectrometry. *J. Chromatogr. A*, 2016, 1463, 153-161.
 * Dimitriou-Christidis, P.; Bonvin, A.; **Samanipour, S.**; Hollender, J.; Rutler, R.; Westphale, J.; Gros, J. and Arey, J. S., GC×GC quantification of priority and emerging nonpolar organic micropollutants in all types of wastewater streams: analysis methodology, chemical occurrence, and partitioning. *Environ. Sci. Technol.*, 2015, 49 (13), 7914-7925.
-* **Samanipour, S.**; Dimitriou-Christidis, P.; Grange, A.; Gros, J.; Arey, J. S., Analyte quan- tification with comprehensive two-dimensional gas chromatography: Assessment of methods for baseline correction, peak delineation and matrix effect elimination. *J. Chromatogr. A*, 2015, 1375, 123-139.
+* **Samanipour, S.**; Dimitriou-Christidis, P.; Grange, A.; Gros, J.; Arey, J. S., Analyte quantification with comprehensive two-dimensional gas chromatography: Assessment of methods for baseline correction, peak delineation and matrix effect elimination. *J. Chromatogr. A*, 2015, 1375, 123-139.
 * Alibabaei, L.; Giovannetti, R.; **Samanipour, S.**, Structure investigations of binary azeotrope of diethyl amine-acetone by FT-IR and H-NMR spectroscopy. *Spectrochim. Acta A*, 2009, 72, 390-393.
