@@ -5,6 +5,7 @@ permalink: /publication/
 ---
 ### Publications at UvA
 
+* Choi, P.; O’Brien, J. W.; Tscharke, B.; Mueller, J. F.; Thomas, K. V.; and **Samanipour, S.**; Population Socioeconomics Predicted Using Wastewater, *Environ. Sci. Technol. Lett*, 2020.
 
 ### Publications before UvA
 
