@@ -67,5 +67,6 @@ The aim of this project is to gain a better understanding of the human exposome 
 
 
 ### Relevant references:
+* Choi, P.; O’Brien, J. W.; Tscharke, B.; Mueller, J. F.; Thomas, K. V.; and **Samanipour, S.**; Population Socioeconomics Predicted Using Wastewater, *Environ. Sci. Technol. Lett*, 2020.
 * Choi, P.; Tscharke, B.; **Samanipour, S.**; Hall, W. D.; Gartner, C. E.; Thomas, K. V.; Mueller, J. F.; O’Brien, J. W., Social, demographic and economic correlates of chemical consumption measured by wastewater based epidemiology, *Proc. Natl. Acad. Sci.*, 2019, 116 (43), 21864– 21873.
 * Ahmed, F.; Tscharke, B.; O’Brien, J. W.; Thompson, J.; **Samanipour, S.**; Choi, P.; Li, J.; Mueller, J. F.; Thomas, K. V., Wastewater-based estimation of the prevalence of gout in Australia, *STOTEN*, 715, 2020, 136925.
