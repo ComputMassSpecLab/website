@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Concentration of plastics in seafood. The latest publication in Environ. Sci. Technol."
-date:   2020-07-024 18:14:23 +0200
+date:   2020-07-24 10:14:23 +0200
 categories: CMSL update
 Author: Samanipour
 ---
 
 ## Quantitative analysis of plastics in Australian seafood
-In this study published in [*Environ. Sci. Technol.*](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c02337) the authors successfully measured the concentrations of several selected plastics in the high value seafood from Australia.
+In this study published in [*Environ. Sci. Technol.*](https://pubs.acs.org/doi/abs/10.1021/acs.est.0c02337) the authors successfully measured the concentrations of several selected plastics in high value seafood from Australia.
 
 
 **Abstract:**
