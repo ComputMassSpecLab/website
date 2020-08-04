@@ -5,6 +5,8 @@ permalink: /publication/
 ---
 ### Publications at UvA
 
+* O'Brien, S.; Okoffo, E. D.; O'Brien, J. W.; Ribeiro, F.; Wang, X.; Wright, S. L.; **Samanipour, S.**; Rauert, C.; Toapanta, T. Y. A.; Albarracin, R.; and Thomas, K. V., Airborne emissions of microplastic fibres from domestic laundry dryers, *STOTEN*, 2020. [https://doi.org/10.1016/j.scitotenv.2020.141175](https://doi.org/10.1016/j.scitotenv.2020.141175) 
+
 * Dulio, V. et al, The NORMAN Association and the European Partnership for Chemicals Risk Assessment (PARC): let’s cooperate!, *Environ. Sci. Eur.*, 2020. [https://doi.org/10.1186/s12302-020-00375-w](https://doi.org/10.1186/s12302-020-00375-w)
 
 * Ribeiro, F.; Dartey Okoffo, E.; O'Brien, J. W.; Fraissinet-Tachet, S.; O'Brien, S.; Gallen, M. J.; **Samanipour, S.**; Kaserzon, S. L.; Mueller, J. F.; Galloway, T. S.; and Thomas, K. V., Quantitative analysis of selected plastics in high commercial value Australian seafood by Pyrolysis Gas Chromatography Mass Spectrometry, *Environ. Sci. Technol.*, 2020. [https://doi.org/10.1021/acs.est.0c02337](https://doi.org/10.1021/acs.est.0c02337)
